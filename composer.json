@@ -1,5 +1,5 @@
 {
-    "name": "lindbaum/module-pay-pal-plus",
+    "name": "iways/module-pay-pal-plus",
     "description": "Forked from https://github.com/i-ways/magento2-paypal-plus - PayPal PLUS for Magento 2",
     "repositories": [
         {
