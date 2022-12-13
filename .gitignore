@@ -1,1 +1,11 @@
-/.project
+.idea
+
+.settings/
+
+.buildpath
+
+.project
+
+.qicon
+
+.DS_Store
