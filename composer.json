@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": "^8.0.0",
-        "paypal/rest-api-sdk-php": "dev-main",
+        "paypal/rest-api-sdk-php": "dev-master",
         "magento/module-paypal": "100.0.*|100.1.*|100.2.*|100.3.*|101.0.*"
     },
     "authors": [
