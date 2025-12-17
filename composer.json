@@ -9,6 +9,10 @@
         {
             "type": "vcs",
             "url": "https://github.com/lindbaum/PayPal-PHP-SDK"
+        },
+        {
+            "type": "git",
+            "url": "git@github.com:lindbaum/PayPal-PHP-SDK.git"
         }
     ],
     "require": {
