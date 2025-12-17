@@ -36,5 +36,7 @@
         "psr-4": {
             "Iways\\PayPalPlus\\": ""
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
