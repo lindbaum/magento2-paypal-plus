@@ -7,8 +7,8 @@
             "url": "https://repo.magento.com"
         },
         {
-            "type": "git",
-            "url": "git@github.com:lindbaum/PayPal-PHP-SDK.git"
+            "type": "vcs",
+            "url": "https://github.com/lindbaum/PayPal-PHP-SDK"
         }
     ],
     "require": {
