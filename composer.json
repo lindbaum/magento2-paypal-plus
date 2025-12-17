@@ -7,17 +7,13 @@
             "url": "https://repo.magento.com"
         },
         {
-            "type": "vcs",
-            "url": "https://github.com/lindbaum/PayPal-PHP-SDK"
-        },
-        {
             "type": "git",
             "url": "git@github.com:lindbaum/PayPal-PHP-SDK.git"
         }
     ],
     "require": {
         "php": "^8.0.0",
-        "paypal/rest-api-sdk-php": "dev-2.4.8",
+        "paypal/rest-api-sdk-php": "dev-master",
         "magento/module-paypal": "100.0.*|100.1.*|100.2.*|100.3.*|101.0.*"
     },
     "authors": [
