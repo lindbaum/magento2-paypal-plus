@@ -5,11 +5,15 @@
         {
             "type": "composer",
             "url": "https://repo.magento.com"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/lindbaum/PayPal-PHP-SDK"
         }
     ],
     "require": {
         "php": "^8.0.0",
-        "paypal/rest-api-sdk-php": "^1.14",
+        "paypal/rest-api-sdk-php": "dev-main",
         "magento/module-paypal": "100.0.*|100.1.*|100.2.*|100.3.*|101.0.*"
     },
     "authors": [
